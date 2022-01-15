@@ -42,7 +42,7 @@
 #team-section {
     position: relative;
     height: 400px;
-    width: 110%;
+    width: 100%;
 }
 
 #team-section::before {
@@ -51,7 +51,6 @@
     background: url('../img/tm1.jpg');
     height: 100%;
     width: 100%;
-    margin: 60px;
     z-index: -1;
     background-repeat: no-repeat;
     background-position: center;
