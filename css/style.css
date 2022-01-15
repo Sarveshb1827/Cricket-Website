@@ -229,9 +229,9 @@ footer img {
     0% {
         content: "";
         position: absolute;
-        background: url('../img/tm1.JPG');
+        background: url('../img/tm1.jpg');
         width: 100%;
-        height: 100%;
+        height: 110%;
         z-index: -1;
         background-repeat: no-repeat;
         background-position: center;
@@ -241,7 +241,7 @@ footer img {
         position: absolute;
         background: url('../img/tm2.jpg');
         width: 100%;
-        height: 100%;
+        height: 110%;
         z-index: -1;
         background-repeat: no-repeat;
         background-position: center;
@@ -249,9 +249,9 @@ footer img {
     50% {
         content: "";
         position: absolute;
-        background: url('../img/tm3.JPEG');
+        background: url('../img/tm3.jpg');
         width: 100%;
-        height: 100%;
+        height: 110%;
         z-index: -1;
         background-repeat: no-repeat;
         background-position: center;
@@ -261,7 +261,7 @@ footer img {
         position: absolute;
         background: url('../img/tm4.jpg');
         width: 100%;
-        height: 100%;
+        height: 110%;
         z-index: -1;
         background-repeat: no-repeat;
         background-position: center;
